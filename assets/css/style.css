@@ -195,6 +195,14 @@ table.common-table tr:not(:first-child):hover {
   background: #f0c87a;
 }
 
+table #map {
+  margin-top: 50px;
+}
+
+table #map .marker-title {
+  color: red;
+}
+
 #wrap {
   width: 1320px;
   margin: 0 auto;
